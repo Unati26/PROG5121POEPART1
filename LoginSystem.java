@@ -54,9 +54,9 @@ public class LoginSystem {
     // ------------------ Main Method ------------------
     public static void main(String[] args) {
 
-        String storedUsername = "";
-        String storedPassword = "";
-        String cellPhone;
+        String storedUsername = "kyl_1";
+        String storedPassword = "Ch&&sec@ke99";
+        String cellPhone = "+27838968976";
 
         // ---------------- Registration ----------------
         // Loop until valid username
